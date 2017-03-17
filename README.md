@@ -1,4 +1,4 @@
-#Clustering-Classification
+# Clustering-And-Classification
 Applying Clustering and Classification algorithms on text datasets.
 
 In order to run the python applications you will need Pandas library and Scikit-Learn.
